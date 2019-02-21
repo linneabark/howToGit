@@ -4,5 +4,7 @@ public class Main {
         System.out.println("Hello World!");
 
         int var = 0;
+
+        boolean isIt = true;
     }
 }
