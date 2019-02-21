@@ -6,5 +6,7 @@ public class Main {
         int var = 0;
 
         boolean isIt = true;
+
+        String hej = "hej";
     }
 }
